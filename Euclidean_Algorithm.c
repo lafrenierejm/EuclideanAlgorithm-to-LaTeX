@@ -9,7 +9,7 @@ main() {
 	unsigned a;// = 100;
 	unsigned b;// = 101;
 	unsigned result;
-	FILE *outputFile = fopen("Euclidean.tex", "w");
+	FILE *outputFile = fopen("Output.tex", "w");
 
 	/*	Get user input	*/
 	printf("Enter two unsigned integers:\n");
